@@ -1,0 +1,13 @@
+.add-icon {
+    width: 3rem;
+}
+
+.add-btn {
+    position: absolute;
+    left: 50%;
+    bottom: 1.2rem;
+    border-radius: 100rem;
+    transform: translate(-50%, 0);
+    border: .01rem #333 solid;
+    box-shadow: #333 0px 0px 10px;
+}

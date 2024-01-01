@@ -1,0 +1,15 @@
+.checkbox-div {
+    width: 2rem;
+    height: 2rem;
+}
+
+.checkbox {
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
+
+.check-icon{
+    max-width: 110%;
+    max-height: 110%;
+}

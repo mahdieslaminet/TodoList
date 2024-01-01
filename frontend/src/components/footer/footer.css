@@ -1,0 +1,24 @@
+.footer {
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+    height: 3rem;
+    display: flex;
+}
+
+.home-icon{
+    max-width: 10%;
+    margin-right: 26%;
+    margin-left: 15%;
+    display: flex;
+}
+.setting-icon{
+    max-width: 10%;
+    margin-left: 26%;
+    margin-right: 14%;
+    display: flex;
+}
+
+
+
+

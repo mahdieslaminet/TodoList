@@ -1,0 +1,32 @@
+.input-d {
+    background: rgba(1, 1, 1, 00);
+    border-width: 0;
+    min-height: 2rem;
+}
+
+.input-d:focus{
+    border-width: 0;
+    box-shadow: 0;
+    outline: 0;
+}
+
+.edit-icon{
+    max-height: 1.5rem;
+}
+
+.input-text-mline {
+    height: 10rem;
+    overflow: scroll;
+}
+
+.input-text-mline::-webkit-scrollbar{
+    display: none;
+    
+}
+.input-d::placeholder{
+    color: #ddf2f2;
+}
+
+.s-btn {
+    cursor: pointer;
+}
