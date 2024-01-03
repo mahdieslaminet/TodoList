@@ -9,3 +9,5 @@ Welcome to Do or Die, a simple yet powerful Todo List application built with HTM
 - [ ] Data Persistence: Your tasks are saved locally, ensuring you never lose your progress, even if you close the browser.
 
 Happy task managing with Do or Die!
+## Video
+https://drive.google.com/drive/folders/1Gn639HVJS-bKfJdumZUAkmC3kOCgdX4g 
