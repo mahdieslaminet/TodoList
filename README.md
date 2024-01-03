@@ -1,10 +1,11 @@
-# Do or Die
-d.o.d Do or Die is a simple to-do list app to help you keep track of tasks you need to get done.
+# Do or Die - Todo List Application
+## Overview
+Welcome to Do or Die, a simple yet powerful Todo List application built with HTML, CSS, and React. This application is designed to help you organize your tasks efficiently, ensuring that you never miss a deadline.
+## Features Todo List
+- [ ] Intuitive Interface: The user-friendly design makes it easy to create, edit, and delete tasks.
+- [ ] Real-time Updates: Instantly see changes as you add or complete tasks without refreshing the page.
+- [ ] Responsive Design: Access your todo list on any device - desktop, tablet, or mobile.
+- [ ] Customization: Personalize your tasks with different priority levels, due dates, and categories.
+- [ ] Data Persistence: Your tasks are saved locally, ensuring you never lose your progress, even if you close the browser.
 
-# Built With
-1. HTML
-2. CSS
-3. react
-
-# Author
-add soon ...
+Happy task managing with Do or Die!
